@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 
-#Added by cargo
+# Added by cargo
 
 /target
+
+# VSCode
+.vscode/*
